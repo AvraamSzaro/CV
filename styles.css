@@ -1203,9 +1203,5 @@ width: 100%;
 .qrcode{
   width: 150px;
   height: 150px;
-  margin-top: -30px;
-}
-
-.tab {
-  tab-size: 2;
+  margin-top: -25px;
 }
