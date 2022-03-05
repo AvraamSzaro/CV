@@ -1196,3 +1196,12 @@ width: 100%;
 .testimonial_content {
   margin: center;
 }
+
+
+
+
+.qrcode{
+  width: 150px;
+  height: 150px;
+  margin-top: -30px;
+}
