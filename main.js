@@ -96,6 +96,7 @@ const swiper = new Swiper(".swiper", {
   keyboardControl: true,
   mousewheelControl: true,
   /* my features begin */
+  /*
   effect: "cube",
   grabCursor: true,
   autoplay: {
