@@ -225,7 +225,7 @@ themeButton.addEventListener("click", () => {
 //the changing text
 
 const autoText1=new Typed('.changing-text1', {
-  strings: ["Привет!", "Привет!", "Hello!", "Bonjour!"],
+  strings: ["Привет!", "Привет!", "Hello!", "Bonjour!", "안녕!"],
   typeSpeed: 120,
   backSpeed: 80,
   loop: true
